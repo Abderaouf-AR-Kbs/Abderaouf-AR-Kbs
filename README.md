@@ -1,8 +1,9 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://github.com/Abderaouf-AR-Kbs/Abderaouf-AR-Kbs/blob/main/header.png" alt="header"/>
 </div>
-<p align="center"> (Reach Me to Join <img src="https://img.shields.io/badge/KABAS-%230718c4?style=for-the-badge&logo=firebase&link=https%3A%2F%2Fkabas-ai.com%2F" />&nbsp;&nbsp;&nbsp;)</p>
+<p align="center"> (Reach Me to Join KABAS)</p>
+<img src="https://img.shields.io/badge/KABAS-%230718c4?style=for-the-badge&logo=firebase&link=https%3A%2F%2Fkabas-ai.com%2F" />&nbsp;&nbsp;&nbsp;
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
