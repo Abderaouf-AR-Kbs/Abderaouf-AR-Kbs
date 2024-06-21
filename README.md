@@ -3,14 +3,16 @@
   <img src="https://github.com/Abderaouf-AR-Kbs/Abderaouf-AR-Kbs/blob/main/header.png" alt="header"/>
 </div>
 <p align="center"> (Reach Me to Join KABAS)</p>
-<p align="center"> <img src="https://img.shields.io/badge/KABAS-%230718c4?style=for-the-badge&logo=firebase&link=https%3A%2F%2Fkabas-ai.com%2F" />&nbsp;&nbsp;&nbsp; </p>
+<p align="center"> <a target="_blank"href="https://kabas-ai.com/"><img src="https://img.shields.io/badge/KABAS-%230718c4?style=for-the-badge&logo=firebase&link=https%3A%2F%2Fkabas-ai.com%2F" /></a>
+  &nbsp;&nbsp;&nbsp; </p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>A muslim from Algeria🇩🇿. I'm an Information System Engineer and Full-Stack Flutter developer (Mobile - Web - Desktop) with more then 4 years of experiance. I'm curruntly the COO of [KABAS](https://kabas-ai.com/), a deep-tech company that develop a whole new technology of #Virtual Labs for complex sectors. I'm reponsible of all operations inside the company, to ensure that everything works find and collaborate to achieve our goals and vision @KABAS
   </samp>
   <br> <br>
-  <img src="https://img.shields.io/badge/KABAS-%230718c4?style=for-the-badge&logo=firebase&link=https%3A%2F%2Fkabas-ai.com%2F" />&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://kabas-ai.com/"><img src="https://img.shields.io/badge/KABAS-%230718c4?style=for-the-badge&logo=firebase&link=https%3A%2F%2Fkabas-ai.com%2F" /></a>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Abderaouf-AR-Kbs" alt="https://github.com/Abderaouf-AR-Kbs" />
 </p>
 
